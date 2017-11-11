@@ -24,6 +24,10 @@ body {
     margin-top: 8px;
 }
 
+.column img {
+    margin-top: 8px;
+}
+
 /* Clear floats after the columns */
 .row:after {
     content: "";
