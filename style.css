@@ -17,15 +17,11 @@ body {
 .column {
     float: left;
     width: 25%;
-    padding: 10px;
+    padding: 8px;
 }
 
 .column figure {
-    margin-top: 8px;
-}
-
-.column img {
-    margin-top: 8px;
+    margin-top: 10px;
 }
 
 /* Clear floats after the columns */
