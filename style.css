@@ -53,4 +53,6 @@ video {
 .floated_img
 {
     float: left;
+    padding: 10px;
+    
 }
