@@ -20,8 +20,8 @@ body {
     padding: 10px;
 }
 
-.column img {
-    margin-top: 12px;
+.column figure {
+    margin-top: 8px;
 }
 
 /* Clear floats after the columns */
