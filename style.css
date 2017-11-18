@@ -13,6 +13,14 @@ body {
     padding: 32px;
 }
 
+.category {
+    text-align: left;
+    margin-left: 32px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 /* Create four equal columns that floats next to each other */
 .column {
     float: left;
