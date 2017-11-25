@@ -52,3 +52,10 @@ body {
         width: 100%;
     }
 }
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .column {
+    width:100%;
+  }
+}
